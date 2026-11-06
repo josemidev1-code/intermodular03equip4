@@ -1,0 +1,13 @@
+/* Estil propi de la pàgina Dark */
+:root {
+    --accent: #eac48a;
+    --accent-rgb: 234, 196, 138
+}
+
+.detail {
+    --bg: radial-gradient(ellipse at 85% 3%, rgba(var(--accent-rgb), .095), transparent 38%)
+}
+
+.detail-intro h1 {
+    text-shadow: 0 10px 50px rgba(var(--accent-rgb), .12)
+}
