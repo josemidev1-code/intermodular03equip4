@@ -67,3 +67,4 @@ Obriu `index.html` amb un navegador o utilitzeu l'extensió Live Server de VS Co
 Les imatges SVG són **il·lustracions originals temàtiques**, no pòsters oficials. Si el professorat exigeix fotografies o pòsters de les sèries, substituïu els fitxers d'`img/` per imatges autoritzades i actualitzeu els noms i atributs `alt` corresponents.
 
 Les sinopsis estan redactades per al projecte; els enllaços dirigeixen a les fitxes de cada sèrie a IMDb.
+.
